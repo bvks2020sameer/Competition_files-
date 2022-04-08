@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"c:\\Users\\sameer\\Desktop\\kickstart\\q1.py","tests":[{"id":1647759718626,"input":"2\naaaa\naaaaa\nbbbbb\nbbbbc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sameer\\Desktop\\kickstart\\q1.py","group":"local","local":true}
